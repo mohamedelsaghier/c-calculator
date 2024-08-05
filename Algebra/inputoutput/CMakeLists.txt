@@ -1,5 +1,5 @@
 # set the project name
-PROJECT(InputOutput VERSION 1.0)
+PROJECT(inputoutput VERSION 1.0)
 
 # Glob the sources
 file(GLOB SOURCES 

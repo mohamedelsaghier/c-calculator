@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.10)
 
 # set the project name
-PROJECT(Addition VERSION 1.0)
+PROJECT(addition VERSION 1.0)
 
 # Glob the sources
 file(GLOB SOURCES 

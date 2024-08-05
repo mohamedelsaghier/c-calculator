@@ -1,5 +1,5 @@
 # set the project name
-PROJECT(Division VERSION 1.0)
+PROJECT(division VERSION 1.0)
 
 # Glob the sources
 file(GLOB SOURCES 

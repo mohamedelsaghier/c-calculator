@@ -1,5 +1,5 @@
 # set the project name
-PROJECT(Subtraction VERSION 1.0)
+PROJECT(subtraction VERSION 1.0)
 
 # Glob the sources
 file(GLOB SOURCES 

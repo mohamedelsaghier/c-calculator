@@ -1,5 +1,5 @@
 # set the project name
-PROJECT(Multiplication VERSION 1.0)
+PROJECT(multiplication VERSION 1.0)
 
 # Glob the sources
 file(GLOB SOURCES 
