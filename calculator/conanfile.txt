@@ -1,0 +1,7 @@
+[requires]
+
+algebra/3.0
+
+[generators]
+CMakeDeps
+CMakeToolchain
